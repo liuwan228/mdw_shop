@@ -8591,9 +8591,9 @@ function resolveLocaleChain(locale) {
 
 /***/ }),
 /* 5 */
-/*!*********************************!*\
-  !*** D:/work/my_app/pages.json ***!
-  \*********************************/
+/*!***********************************!*\
+  !*** D:/work/mdw_shop/pages.json ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
