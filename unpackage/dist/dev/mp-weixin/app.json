@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/index",
+    "pages/mine/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#005500",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#f8e3d7",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/tab-finance-on-icon.png",
+        "selectedIconPath": "static/img/tab-finance-on-icon.png",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "text": "我的",
+        "iconPath": "static/img/tab-mine-on-icon.png",
+        "selectedIconPath": "static/img/tab-mine-on-icon.png",
+        "visible": true
+      }
+    ]
+  },
+  "usingComponents": {}
+}
