@@ -1,5 +1,5 @@
 <template>
-    <view>社区</view>
+	<view>我的页面</view>
 </template>
 
 <script>

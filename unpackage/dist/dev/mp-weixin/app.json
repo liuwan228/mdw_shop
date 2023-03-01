@@ -1,6 +1,8 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/cart/index",
+    "pages/classify/index",
     "pages/message/index",
     "pages/mine/index"
   ],
@@ -20,6 +22,27 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
+        "iconPath": "static/img/tab-finance-on-icon.png",
+        "selectedIconPath": "static/img/tab-finance-on-icon.png",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/cart/index",
+        "text": "购物车",
+        "iconPath": "static/img/tab-finance-on-icon.png",
+        "selectedIconPath": "static/img/tab-finance-on-icon.png",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/classify/index",
+        "text": "分类",
+        "iconPath": "static/img/tab-finance-on-icon.png",
+        "selectedIconPath": "static/img/tab-finance-on-icon.png",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/message/index",
+        "text": "社区",
         "iconPath": "static/img/tab-finance-on-icon.png",
         "selectedIconPath": "static/img/tab-finance-on-icon.png",
         "visible": true
