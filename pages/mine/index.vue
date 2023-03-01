@@ -4,7 +4,7 @@
 			1111我的页面
 		</view>
 		<view class="bbb">
-			222我的页面
+			222我的页面	
 		</view>
 		</view>
 </template>
