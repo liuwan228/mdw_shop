@@ -1,5 +1,5 @@
 <template>
-  <view>22222</view>
+  <view>分类</view>
 </template>
 
 <script>

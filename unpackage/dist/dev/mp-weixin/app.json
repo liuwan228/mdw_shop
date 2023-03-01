@@ -8,9 +8,9 @@
   ],
   "subPackages": [],
   "window": {
-    "navigationBarTextStyle": "white",
+    "navigationBarTextStyle": "black",
     "navigationBarTitleText": "梦戴维商城",
-    "navigationBarBackgroundColor": "#005500",
+    "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
   },
   "tabBar": {

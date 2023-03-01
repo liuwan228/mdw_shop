@@ -1,9 +1,12 @@
 <template>
-	<view>我的页面</view>
+	<view class="mine">我的页面</view>
 </template>
 
 <script>
 </script>
 
-<style>
+<style lang="scss" scoped>
+	.mine{
+		font-size: 38px;
+	}
 </style>

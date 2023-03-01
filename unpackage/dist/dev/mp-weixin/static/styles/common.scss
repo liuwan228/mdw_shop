@@ -1,41 +1,9 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*每个页面公共css */
-.et-ellipsis {
-	overflow:hidden;
-	text-overflow:ellipsis;
-	white-space:nowrap
-}
-.et-multi-ellipsis--l2 {
-	-webkit-line-clamp:2
-}
-.et-multi-ellipsis--l2,
-.et-multi-ellipsis--l3 {
-	-webkit-box-orient:vertical;
-	display:-webkit-box;
-	overflow:hidden;
-	text-overflow:ellipsis
-}
-.et-multi-ellipsis--l3 {
-	-webkit-line-clamp:3
-}
 /* 块元素垂直间隙占位 */
 .gap {
   height: 24rpx;
 }
+
 ::-webkit-scrollbar {
     display: none;
     width: 0 !important;
@@ -43,6 +11,7 @@
     -webkit-appearance: none;
     background: transparent;
 }
+
 .pd16{
 	padding: 32rpx;
 }
@@ -108,4 +77,3 @@
 	padding: 32rpx;
 	background-color:$uni-bg-color;
 }
-

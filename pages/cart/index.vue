@@ -1,5 +1,5 @@
 <template>
-	<view>我的页面</view>
+	<view>购物车页面</view>
 </template>
 
 <script>

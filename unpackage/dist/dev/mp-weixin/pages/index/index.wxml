@@ -1,1 +1,1 @@
-<view class="content"><block wx:for="{{imgArr}}" wx:for-item="res" wx:for-index="key" wx:key="key"><view><image class="logo" src="{{res.url}}"></image></view></block><view class="text-area"><button type="default" data-event-opts="{{[['tap',[['goPreview',['$0','$1'],['imgArr','key']]]]]}}" bindtap="__e">点击生成分享图</button></view></view>
+<view class="content"><view>首页</view></view>
