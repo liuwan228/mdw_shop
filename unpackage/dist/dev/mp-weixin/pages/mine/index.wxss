@@ -25,6 +25,12 @@
 /* 透明度 */
 /* 文章场景相关 */
 .mine.data-v-4bd6864f {
-  font-size: 38px;
+  font-size: 38rpx;
+}
+.mine .aaa.data-v-4bd6864f {
+  height: 100rpx;
+}
+.mine .bbb.data-v-4bd6864f {
+  height: 200rpx;
 }
 
